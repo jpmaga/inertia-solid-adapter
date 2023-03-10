@@ -1,4 +1,4 @@
-# Inertia.js Solid Adapter
+# Inertia.js Solid Adapter [POC]
 
 ## Sample entrypoint
 ```jsx
